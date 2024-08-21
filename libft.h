@@ -6,7 +6,7 @@
 /*   By: jose-tor <jose-tor@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/05/01 16:25:01 by jose-tor          #+#    #+#             */
-/*   Updated: 2024/08/07 15:04:11 by jose-tor         ###   ########.fr       */
+/*   Updated: 2024/08/13 15:45:30 by jose-tor         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -17,9 +17,6 @@
 # include <stdlib.h>
 # include <string.h>
 # include <stdio.h>
-
-# define FT_INT_MIN -2147483648
-# define FT_INT_MAX 2147483647
 
 typedef struct s_list
 {

@@ -6,7 +6,7 @@
 /*   By: jose-tor <jose-tor@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/05/14 20:27:41 by jose-tor          #+#    #+#             */
-/*   Updated: 2024/08/07 15:35:50 by jose-tor         ###   ########.fr       */
+/*   Updated: 2024/08/12 13:38:59 by jose-tor         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -60,5 +60,3 @@ char	*ft_strtrim(const char *s1, const char *set)
 		j--;
 	return (new_str(s1, i, j - (i - 1)));
 }
-
-
